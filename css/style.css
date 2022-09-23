@@ -395,7 +395,7 @@ html {
 
 .section-benefits-icon-3 {
     justify-content: flex-start;
-    background-image: url('..img/heating.png');
+    background-image: url('../img/heating.png');
     background-repeat: no-repeat;
     width: 64px;
     height: 66px;
