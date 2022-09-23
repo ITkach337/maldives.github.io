@@ -3,39 +3,39 @@
     font-family: 'Albert Sans';
     font-style: normal;
     font-weight: 300;
-    src: url('fonts/albert-sans-v1-latin-300.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/albert-sans-v1-latin-300.eot'); /* IE9 Compat Modes */
     src: local(''),
-         url('fonts/albert-sans-v1-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('fonts/albert-sans-v1-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-         url('fonts/albert-sans-v1-latin-300.woff') format('woff'), /* Modern Browsers */
-         url('fonts/albert-sans-v1-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('fonts/albert-sans-v1-latin-300.svg#AlbertSans') format('svg'); /* Legacy iOS */
+         url('../fonts/albert-sans-v1-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/albert-sans-v1-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/albert-sans-v1-latin-300.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/albert-sans-v1-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/albert-sans-v1-latin-300.svg#AlbertSans') format('svg'); /* Legacy iOS */
   }
   /* albert-sans-regular - latin */
   @font-face {
     font-family: 'Albert Sans';
     font-style: normal;
     font-weight: 400;
-    src: url(fonts/albert-sans-v1-latin-regular.eot'); /* IE9 Compat Modes */
+    src: url(../fonts/albert-sans-v1-latin-regular.eot'); /* IE9 Compat Modes */
     src: local(''),
-         url('fonts/albert-sans-v1-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('fonts/albert-sans-v1-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-         url('fonts/albert-sans-v1-latin-regular.woff') format('woff'), /* Modern Browsers */
-         url('fonts/albert-sans-v1-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('fonts/albert-sans-v1-latin-regular.svg#AlbertSans') format('svg'); /* Legacy iOS */
+         url('../fonts/albert-sans-v1-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/albert-sans-v1-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/albert-sans-v1-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/albert-sans-v1-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/albert-sans-v1-latin-regular.svg#AlbertSans') format('svg'); /* Legacy iOS */
   }
   /* albert-sans-600 - latin */
   @font-face {
     font-family: 'Albert Sans';
     font-style: normal;
     font-weight: 600;
-    src: url('fonts/albert-sans-v1-latin-600.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/albert-sans-v1-latin-600.eot'); /* IE9 Compat Modes */
     src: local(''),
-         url('fonts/albert-sans-v1-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('fonts/albert-sans-v1-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-         url('fonts/albert-sans-v1-latin-600.woff') format('woff'), /* Modern Browsers */
-         url('fonts/albert-sans-v1-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('fonts/albert-sans-v1-latin-600.svg#AlbertSans') format('svg'); /* Legacy iOS */
+         url('../fonts/albert-sans-v1-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/albert-sans-v1-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/albert-sans-v1-latin-600.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/albert-sans-v1-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/albert-sans-v1-latin-600.svg#AlbertSans') format('svg'); /* Legacy iOS */
   }
 
   
@@ -198,7 +198,7 @@ html {
     width: 580px;
     height: 250px;
     margin-bottom: 30px;
-    background-image: url(..img/maldivi.jpg);
+    background-image: url(../img/maldivi.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 20px;
@@ -206,7 +206,7 @@ html {
 .section-spec-left-2 {
     width: 580px;
     height: 250px;
-    background-image: url(..img/krit.jpg);
+    background-image: url(../img/krit.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 20px;
@@ -216,7 +216,7 @@ html {
     margin-top: 30px;
     width: 580px;
     height: 530px;
-    background-image: url(..img/sofa.jpg);
+    background-image: url(../img/sofa.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 20px;
@@ -307,28 +307,28 @@ html {
 }
 
 .service-list-item-block-1{
-    background-image: url(..img/champan.jpg);
+    background-image: url(../img/champan.jpg);
     height: 150px;
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 15px 15px 0px 0px;
 }
 .service-list-item-block-2{
-    background-image: url(..img/house.jpg);
+    background-image: url(../img/house.jpg);
     height: 150px;
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 15px 15px 0px 0px;
 }
 .service-list-item-block-3{
-    background-image: url(..img/pool.jpg);
+    background-image: url(../img/pool.jpg);
     height: 150px;
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 15px 15px 0px 0px;
 }
 .service-list-item-block-4{
-    background-image: url(..img/car.jpg);
+    background-image: url(../img/car.jpg);
     height: 150px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -379,7 +379,7 @@ html {
 
 .section-benefits-icon-1 {
     justify-content: flex-start;
-    background-image: url('..img/bathtub.png');
+    background-image: url('../img/bathtub.png');
     background-repeat: no-repeat;
     width: 64px;
     height: 66px;
@@ -387,7 +387,7 @@ html {
 
 .section-benefits-icon-2 {
     justify-content: flex-start;
-    background-image: url('..img/hanger.png');
+    background-image: url('../img/hanger.png');
     background-repeat: no-repeat;
     width: 64px;
     height: 66px;
@@ -403,7 +403,7 @@ html {
 
 .section-benefits-icon-4 {
     justify-content: flex-start;
-    background-image: url('..img/hotel-key.png');
+    background-image: url('../img/hotel-key.png');
     background-repeat: no-repeat;
     width: 64px;
     height: 66px;
@@ -411,7 +411,7 @@ html {
 
 .section-benefits-icon-5 {
     justify-content: flex-start;
-    background-image: url('..img/parking.png');
+    background-image: url('../img/parking.png');
     background-repeat: no-repeat;
     width: 64px;
     height: 66px;
@@ -419,7 +419,7 @@ html {
 
 .section-benefits-icon-6 {
     justify-content: flex-start;
-    background-image: url('..img/reception.png');
+    background-image: url('../img/reception.png');
     background-repeat: no-repeat;
     width: 64px;
     height: 66px;
@@ -427,7 +427,7 @@ html {
 
 .section-benefits-icon-7 {
     justify-content: flex-start;
-    background-image: url('..img/security-box.png');
+    background-image: url('../img/security-box.png');
     background-repeat: no-repeat;
     width: 64px;
     height: 66px;
@@ -435,7 +435,7 @@ html {
 
 .section-benefits-icon-8 {
     justify-content: flex-start;
-    background-image: url('..img/swimming-pool.png');
+    background-image: url('../img/swimming-pool.png');
     background-repeat: no-repeat;
     width: 64px;
     height: 66px;
@@ -443,7 +443,7 @@ html {
 
 .section-benefits-icon-9 {
     justify-content: flex-start;
-    background-image: url('..img/swimming-pool.png');
+    background-image: url('../img/swimming-pool.png');
     background-repeat: no-repeat;
     width: 64px;
     height: 66px;
@@ -482,7 +482,7 @@ html {
 }
 
 .placement-item-more {
-    background-image: url(..img/placement-photo-more.jpg);
+    background-image: url(../img/placement-photo-more.jpg);
     justify-content: end;
 }
 
@@ -559,7 +559,7 @@ html {
     border-radius: 15px;
     color: white;
     padding: 45px 65px 45px 35px;
-    background-image: url(..img/logo-footer.png);
+    background-image: url(../img/logo-footer.png);
     background-repeat: no-repeat;
     background-size: 254px 228px;
     background-position-x: 78%;
@@ -603,7 +603,7 @@ html {
 .footer-social-ilon-tripadvisor{
     height: 15px;
     width: 15px;
-    background-image: url('..img/tripadvisor.png');
+    background-image: url('../img/tripadvisor.png');
     background-color: transparent;
 }
 
